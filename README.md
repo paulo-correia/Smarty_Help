@@ -5,7 +5,9 @@
 Pré Requisitos:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Apache (Qualquer versão) configurado para ler e interpretar o .htaccess
+
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; PHP 5.2 ou superior
+
 &nbsp;&nbsp;&nbsp;&nbsp;&bull; Linux (Não testei no Windows)
 
 Após ter os pré requisitos, crie uma pasta para o seu protejo exemplo "projeto_x", estando dentro dela crie o arquivo .htaccess com o seguinte conteúdo:
